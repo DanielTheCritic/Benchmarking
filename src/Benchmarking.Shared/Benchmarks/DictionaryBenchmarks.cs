@@ -1,11 +1,10 @@
 ﻿using BenchmarkDotNet.Attributes;
-using Benchmarking.Models;
+using Benchmarking.Shared.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
-namespace Benchmarking.Benchmarks
+namespace Benchmarking.Shared.Benchmarks
 {
     public class DictionaryBenchmarks
     {

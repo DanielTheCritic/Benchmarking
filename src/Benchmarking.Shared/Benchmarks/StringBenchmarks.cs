@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Benchmarking.Benchmarks
+namespace Benchmarking.Shared.Benchmarks
 {
     public class StringBenchmarks
     {

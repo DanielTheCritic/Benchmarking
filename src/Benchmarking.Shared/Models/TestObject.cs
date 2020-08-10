@@ -1,5 +1,5 @@
 ﻿
-namespace Benchmarking.Models
+namespace Benchmarking.Shared.Models
 {
     public class TestObject
     {
