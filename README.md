@@ -1,7 +1,8 @@
 # Benchmarking
-Bench marking various concepts in .Net.
+Benchmarking various concepts in C# using DotNetBenchmarks.
 
-String Benchmarks
+**String Benchmarks**
+
 |                           Method |        Mean |     Error |     StdDev |
 |--------------------------------- |------------:|----------:|-----------:|
 |          String_Concat_2_Strings |    48.01 us |  0.955 us |   2.057 us |
@@ -11,7 +12,8 @@ String Benchmarks
 |   StringBuilder_Concat_5_Strings |   182.42 us | 13.555 us |  39.968 us |
 | StringBuilder_Concat_100_Strings | 2,629.21 us | 86.659 us | 248.640 us |
 
-Dictionary Benchmarks
+**Dictionary Benchmarks**
+
 |                              Method |       Mean |    Error |    StdDev |     Median |
 |------------------------------------ |-----------:|---------:|----------:|-----------:|
 |                   Dictionary_IntKey |   327.8 us |  8.09 us |  22.00 us |   325.2 us |
